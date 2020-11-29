@@ -1,5 +1,0 @@
-hello world 
-
-techonology :- React js , python , Mysql, html, css ,javasccript , & many more
-
-thank you 
